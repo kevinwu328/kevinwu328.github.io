@@ -1,0 +1,63 @@
+html{
+    scroll-behavior: smooth;
+}
+
+div{
+    text-align:center;
+}
+#navbar{
+    overflow: hidden;
+    background-color: rgb(62, 113, 160);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#navbar a{
+    font-size:2em;
+    float:left;
+    display:block;
+    color: white;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+}
+h1{
+    text-align: center;text-align: center;
+}
+
+#icons{
+    float:right;
+}
+
+body{
+    margin:0px;
+}
+
+
+
+ul{
+    font-size: 2em;
+    list-style-position: inside;
+    display:inline-block;
+}
+
+li{
+    text-align:left;
+}
+
+p{
+    font-size: 2em;
+}
+
+h1{
+    font-size: 4em;
+}
+
+#page div{
+    padding:20em;
+}
+
+embed{
+    width:100%;
+}
